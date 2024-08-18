@@ -1,4 +1,4 @@
-## Greetings, Mr. Raven my name is, welcome to my kingdom
+![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=5000&color=00FF00&random=false&width=695&lines=Greetings,+Mr.+Raven+my+name+is,+welcome+to+my+kingdom)
 
 benjiraven@helloworld:~ cat whoami.txt
 ```markdown
