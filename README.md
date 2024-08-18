@@ -1,6 +1,4 @@
 ## Hello there
-
-**Header**
 ```markdown
 **Code Crusader**
 A rebel with a cause: making the world a more efficient, scalable, and 
