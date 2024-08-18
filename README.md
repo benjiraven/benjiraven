@@ -1,31 +1,15 @@
-## Hello there
+# Hello there
 ```markdown
-**Code Crusader**
+**Code Maverick**
 A rebel with a cause: making the world a more efficient, scalable, and 
 awesome place... one line of code at a time.
 ```
-**About Me**
+## About Me
 
-* A brief intro that sets the tone for your tech-savviness.
+* I'm only human
+  
+* Programming languages: HTML, Python, C
 
-Example:
-```
-I'm a coder by day and a problem-solving ninja by night. When I'm not 
-conjuring up solutions to make my friends' lives easier, you can find me 
-experimenting with new tech or planning my next coding adventure.
-```
-**Tech Trove**
-
-* A showcase of your technical skills, without giving away too much.
-
-Example:
-```markdown
-**My Arsenal**
-• Programming languages: Python, JavaScript, Java (just don't ask me to 
-choose a favorite)
-• Tools: Git, Docker, Kubernetes, and the occasional hammer (don't worry, 
-I won't use it on my codebase... yet 😜)
-```
 **Personal Projects**
 
 * A selection of your personal projects that demonstrate your skills and 
