@@ -9,7 +9,9 @@ benjiraven@helloworld:~ cat whoami.txt
   **Human**
   I'm only human, after all. Just a simple man looking for truth.
 
-  **
+  **Tech Enthusiast**
+
+  **Cybersecurity Specialist**
 
 * Programming languages: HTML, Python, C
 
