@@ -17,4 +17,14 @@ benjiraven@helloworld:~ cat whoami.txt
 
 ```
 
-Looking for me? Try the nearest mountain, I might be meditating there.
+
+## Tryin' to reach me?
+
+Try the nearest mountain, I might be meditating there. You're welcomed to join.
+
+## Follow me, because together we can make a difference in this world
+
+<p>
+  <a href="https://mastodon.social/@mrbenjiraven" target="_blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a>
+  <a href="https://x.com/benjiraven" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+</p>
