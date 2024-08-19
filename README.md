@@ -1,4 +1,4 @@
-![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=5000&color=00FF00&random=false&width=695&lines=Greetings,+Mr.+Raven+my+name+is,+welcome+to+my+kingdom)
+![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=5000&color=00FF00&random=false&width=695&lines=Greetings,+Benjamin+my+name+is,+welcome+to+my+sanctum)
 
 benjiraven@helloworld:~ cat whoami.txt
 ```markdown
@@ -10,9 +10,11 @@ benjiraven@helloworld:~ cat whoami.txt
   I'm only human, after all. Just a simple man looking for truth.
 
   **Tech Enthusiast**
-
+  
   **Cybersecurity Specialist**
 
 * Programming languages: HTML, Python, C
 
 ```
+
+Looking for me? Try the nearest mountain, I might be meditating there.
