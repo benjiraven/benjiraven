@@ -10,8 +10,14 @@ benjiraven@helloworld:~ cat whoami.txt
   I'm only human, after all. Just a simple man looking for truth.
 
   **Tech Enthusiast**
+  I just like technologies. I like trying new tech stuff, building and repairing it,
+  seeing how it works, it just excites me so much.
   
-  **Cybersecurity Specialist**
+  **Ethical Hacker**
+  I got a passion for this job.
+
+  **FOSS Lover**
+  Well, what can I say, I just love FOSS.
 
 * Programming languages: HTML, Python, C
 
