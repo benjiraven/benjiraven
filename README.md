@@ -1,6 +1,6 @@
 ![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=5000&color=00FF00&random=false&width=695&lines=Greetings,+Benjamin+my+name+is,+welcome+to+my+sanctum)
 
-benjiraven@helloworld:~ cat whoami.txt
+benjiraven@helloworld:~$ cat whoami.txt
 ```markdown
   **Code Maverick**
   A rebel with a cause: making the world a more efficient, scalable, awesome
@@ -10,7 +10,7 @@ benjiraven@helloworld:~ cat whoami.txt
   I'm only human, after all. Just a simple man looking for truth.
 
   **Tech Enthusiast**
-  I just like technologies. I like trying new tech stuff, building and repairing it,
+  I am fascinated by technology. I like trying new tech stuff, building and repairing it,
   seeing how it works, it just excites me so much.
   
   **Ethical Hacker**
@@ -18,11 +18,11 @@ benjiraven@helloworld:~ cat whoami.txt
 
   **FOSS Lover**
   Well, what can I say, I just love FOSS.
-
-* Programming languages: HTML, Python, C
-
 ```
 
+## Programming languages
+
+HTML, Python, C
 
 ## Tryin' to reach me?
 
